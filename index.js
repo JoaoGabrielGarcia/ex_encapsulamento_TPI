@@ -1,4 +1,3 @@
-// Instanciando endereços
 const Endereco = require('./Endereco');
 const Telefone = require('./Telefone');
 const Cliente = require('./Cliente');
